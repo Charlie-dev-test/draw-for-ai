@@ -1,0 +1,10 @@
+@import "common/links";
+@import "common/pages";
+@import "common/buttons";
+@import "common/canvas.scss";
+html{
+  scroll-behavior: smooth;
+}
+html, body {
+  height: 100%;
+}

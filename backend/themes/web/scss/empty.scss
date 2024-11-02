@@ -1,0 +1,73 @@
+@import 'variables';
+body {
+    background: $background-2;
+    font-family: 'Open Sans', sans-serif;
+}
+#wrapper{
+    height: 100%;
+    .logo{
+        font-size: 18px;
+        text-align: center;
+        margin-top: 20px;
+        color: $background-3;
+    }
+    .logo:hover{
+        color: #fff;
+        text-decoration: none;
+    }
+    .logo img{
+        vertical-align: top;
+        margin-right: 8px;
+    }
+    .panel-heading{
+        font-size: 24px;
+        color: #777;
+    }
+    .vertical-align-parent {
+        -webkit-transform-style: preserve-3d;
+        -moz-transform-style: preserve-3d;
+        transform-style: preserve-3d;
+    }
+    .vertical-align-child {
+        position: relative;
+        top: 50%;
+        -webkit-transform: translateY(-50%);
+        -ms-transform: translateY(-50%);
+        transform: translateY(-50%);
+    }
+    .panel {
+        border-radius: 0;
+    }
+    .panel .panel-body {
+        padding: 15px 20px;
+    }
+    .tooltip{
+        min-width: 200px;
+    }
+    .tooltip .tooltip-inner{
+        font-size: 12px;
+        text-align: left;
+        padding: 5px 8px 5px 10px;
+        background: $background-4;
+    }
+    .tooltip .tooltip-arrow{
+        border-right-color: $background-4;
+    }
+    .panel .recaptcha-tip{
+        margin-bottom: 20px;
+    }
+    .btn-primary, .btn-primary:focus, .btn-primary:active {
+        background: $background-4 !important;
+        border-radius: 0;
+        border: none !important;
+    }
+    .btn-primary:hover{
+        background: lighten($background-4, 10%) !important;
+    }
+    .form-control{
+        border-radius: 0;
+    }
+    .help-block {
+        color: #777;
+    }
+}

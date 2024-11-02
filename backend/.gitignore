@@ -1,0 +1,12 @@
+/web/assets
+
+/runtime/cache
+/runtime/debug
+/runtime/HTML
+/runtime/logs
+/runtime/URI
+
+/config/codeception-local.php
+/config/main-local.php
+/config/params-local.php
+/config/test-local.php

@@ -1,0 +1,9 @@
+_access.php
+
+adm/_common.php -> _access.php
+
+adm/_globalmodels.php -> _common.php
+adm/_globalview.php -> _common.php
+
+adm/... -> _globalview.php
+adm/_form.php -> _globalmodels.php

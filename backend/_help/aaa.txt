@@ -1,0 +1,52 @@
++ FILTER_CHECKBOX
+[@!PICS_1!@]
+
++ FILTER_CHECKBOX_X
+[@!PICS_2!@]
+
++ FILTER_COLOR
+[@!PICS_3!@]
+
++ FILTER_DATE
+[@!PICS_4!@]
+
++ FILTER_DATETIME
+[@!PICS_5!@]
+
++ FILTER_DATE_RANGE
+[@!PICS_6!@]
+
++ FILTER_MONEY
+[@!PICS_7!@]
+
++ FILTER_NUMBER
+[@!PICS_8!@]
+
++ FILTER_RANGE
+[@!PICS_9!@]
+
++ FILTER_SELECT2
+[@!PICS_10!@]
+
++ FILTER_SLIDER
+[@!PICS_11!@]
+
++ FILTER_SPIN
+[@!PICS_12!@]
+
++ FILTER_STAR
+[@!PICS_13!@]
+
++ FILTER_SWITCH
+[@!PICS_14!@]
+
++ FILTER_TYPEAHEAD
+[@!PICS_15!@]
+
+=================================
+
++ FILTER_0_TEXT
+[@!PICS_16!@]
+
++ FILTER_0_SELECT
+[@!PICS_17!@]

@@ -1,0 +1,9 @@
+
+
+#-- z_uploads
+# id, user_id, realname, path, name, is_deleted, exif
+#'103', '0', '_me_and_Copenhagen.jpg', 'OkMnLdsm', '_me_and_copenhagen.jpg', '0', NULL
+
+#-- z_files
+# id, parentid, source_id, lang_id, country_id, sid, orderid, title, pics, active, user_id
+#'78', '0', '0', '0', '0', 'frontend', '74', 'test', '103', '1', '144'

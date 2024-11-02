@@ -1,0 +1,52 @@
+Array
+(
+    [username] => Peter
+    [surname] => Johns
+    [patronymic] => pn
+    [email] => email
+    [citizenship] => Каз
+    [dob] => 2021/12/18
+    [passport] => passport
+    [address_reg] => Зарегестрирован
+    [address_loc] => Проживаю
+    [phone] => 8-964-777-77-77
+    [inn] => inn
+    [snils] => snils
+    [bank_card] => card
+    [bank_account] => account
+    [bank_name] => bn
+    [bank_bik] => bik
+    [bank_corr] => corr
+)
+Array
+(
+    [files] => Array
+        (
+            [name] => Array
+                (
+                    [0] => DSCN1371.JPG
+                )
+
+            [type] => Array
+                (
+                    [0] => image/jpeg
+                )
+
+            [tmp_name] => Array
+                (
+                    [0] => /tmp/phpLKW2Sn
+                )
+
+            [error] => Array
+                (
+                    [0] => 0
+                )
+
+            [size] => Array
+                (
+                    [0] => 996856
+                )
+
+        )
+
+)
